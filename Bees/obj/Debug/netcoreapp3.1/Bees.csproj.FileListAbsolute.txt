@@ -1,0 +1,11 @@
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\obj\Debug\netcoreapp3.1\Bees.csprojAssemblyReference.cache
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\obj\Debug\netcoreapp3.1\Bees.AssemblyInfoInputs.cache
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\obj\Debug\netcoreapp3.1\Bees.AssemblyInfo.cs
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.exe
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.deps.json
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.runtimeconfig.json
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.runtimeconfig.dev.json
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.dll
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\bin\Debug\netcoreapp3.1\Bees.pdb
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\obj\Debug\netcoreapp3.1\Bees.dll
+C:\Users\theza\Desktop\Swin\Sem2_Week1\Bees\obj\Debug\netcoreapp3.1\Bees.pdb
